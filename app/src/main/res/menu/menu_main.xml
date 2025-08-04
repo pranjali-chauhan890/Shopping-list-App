@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            app:showAsAction="ifRoom"
+            android:id="@+id/add"
+            android:icon="@drawable/add_icon"
+            android:title="Add Item"/>
+        <item
+            app:showAsAction="ifRoom"
+            android:id="@+id/clear"
+            android:icon="@drawable/clear_all_icon"
+            android:title="Clear All"/>
+        <item
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/about_icon"
+            android:id="@+id/about"
+            android:title="About"/>
+
+
+
+
+</menu>
