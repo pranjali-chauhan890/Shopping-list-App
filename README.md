@@ -28,5 +28,3 @@ A simple and modern Android app to manage your daily shopping list efficiently. 
 ---
 
 If you found this project useful, feel free to star ⭐ the repository and share it with others!
-   ```bash
-   git clone https://github.com/yo
